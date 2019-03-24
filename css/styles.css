@@ -1,7 +1,22 @@
 body {
   padding-top: 5rem;
+  color: purple;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+
+ul {
+  font-style: italic;
+  background-color: green;
+}
+a.navbar-brand {
+  background-color: pink;
+}
+
+button.btn-primary {
+  background-color: red;
+  outline-width: thick;
+
 }
